@@ -11,6 +11,4 @@ function happyHolidayTo(holiday) {
   return "Happy ${holiday}, you!";
 }
 
-function happyHolidayTo(holiday) {
-  return "Happy ${holiday}, you!";
-}
+function holidayCountdow
